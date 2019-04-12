@@ -6,4 +6,7 @@ package com.luht.gitshare.service;
  * @mail lu_hantai@139.com
  */
 public class TestService {
+
+    public String aa;
+
 }
